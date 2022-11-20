@@ -36,7 +36,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @RestController
-public class abcd {
+public class TestController {
 
 
 	  
@@ -47,7 +47,7 @@ public class abcd {
 	  
 	  
 		
-	public abcd() {
+	public TestController() {
 		System.out.println("object created for controller");
 		
 	}
